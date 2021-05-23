@@ -1,0 +1,9 @@
+ads.mopub.com
+cdp.cloud.unity3d.com
+inapps.appsflyer.com
+ms.applovin.com
+ms.applvn.com
+prod-ms.applovin.com
+spiegel-de.spiegel.de
+cdn.privacy-mgmt.com
+assets.adobedtm.com
